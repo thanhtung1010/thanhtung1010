@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working at **Bstar Solutions - 10/2021 to present**
 
-- 👨‍💻 All of my projects are available at [tung-dev](tung-dev.com)
+- 👨‍💻 My portfolio [tung-dev](tung-dev.com)
 
 - 📫 How to reach me **trinhthanhtung1010@gmail.com**
 
-- ⚡ Fun fact **I really like bodykey just because i'm lazy**
+- ⚡ Fun fact about me **I really like bodykey just because i'm lazy**
 
 <h3 align="left">Frontend Development:</h3>
 <div align="left" display="flex" gap="5px">
