@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Bstar Solutions - 10/2021 to present**
 
-- 👨‍💻 My portfolio <a href="tung-dev.com" target="_blank">tung-dev<a/>
+- 👨‍💻 My portfolio <a href="https://www.tung-dev.com/my-porfolio/home" target="_blank">tung-dev<a/>
 
 - 📫 How to reach me **trinhthanhtung1010@gmail.com**
 
