@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trinh Thanh Tung</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 
-- 🔭 I’m currently working at **<a href="https://redoc.co/" target="_blank">Redoc<a/> - 10/2021 to present**
+- 🔭 I’m currently working at **<a href="https://redoc.co/" target="_blank">Redoc<a/> - 09/2024 to present**
 
 - 👨‍💻 My portfolio <a href="https://www.tung-dev.com/my-porfolio/home" target="_blank">tung-dev<a/>
 
