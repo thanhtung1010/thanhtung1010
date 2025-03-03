@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **<a href="https://redoc.co/" target="_blank">Redoc<a/> - 09/2024 to present**
 
-- 👨‍💻 My portfolio <a href="https://www.tung-dev.com/my-porfolio/home" target="_blank">tung-dev<a/>
+- 👨‍💻 My portfolio <a href="https://www.tungtdev.com/my-porfolio/home" target="_blank">Tung The Dev<a/>
 
 - 📫 How to reach me **trinhthanhtung1010@gmail.com**
 
